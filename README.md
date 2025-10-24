@@ -52,8 +52,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
-#### Output Table
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -64,8 +62,7 @@ END
 
 
 #### Manual Calculations
-
-<img width="1565" height="1041" alt="image" src="https://github.com/user-attachments/assets/1b1f0aae-f419-4130-92f4-06a7c68272b8" />
+<img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ddc804a-83a0-4c49-b03a-4ca50bcf64ef" />
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
@@ -116,7 +113,8 @@ END
 
 
 #### Manual Calculations
-<img width="1388" height="746" alt="image" src="https://github.com/user-attachments/assets/f4aa82d5-2258-4e5a-9a8e-91a348b48160" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8996fb8e-38e5-4b62-a926-bff171b66dc4" />
+
 
 
 
