@@ -65,14 +65,8 @@ END
 
 #### Manual Calculations
 
-AX = 1234H  
-BX = 1234H  
-AX + BX = 2468H (no carry)  
-CL = 00H  
-[1200H] = 2468H, [1202H] = 00H
+<img width="1565" height="1041" alt="image" src="https://github.com/user-attachments/assets/1b1f0aae-f419-4130-92f4-06a7c68272b8" />
 
-
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="633" height="299" alt="Screenshot 2025-09-21 230237" src="https://github.com/user-attachments/assets/6b8648d2-41fe-44ac-a4db-3be7334dfceb" />
@@ -122,14 +116,8 @@ END
 
 
 #### Manual Calculations
+<img width="1388" height="746" alt="image" src="https://github.com/user-attachments/assets/f4aa82d5-2258-4e5a-9a8e-91a348b48160" />
 
-AX = 1234H  
-BX = 1234H  
-AX − BX = 0000H (no borrow)  
-CL = 00H  
-[1200H] = 0000H, [1202H] = 00H
-
----
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -178,19 +166,7 @@ END
 |   1220                  |      BE 72 FF 77         |
 
 #### Manual Calculations
-
-AX = 1234H  
-BX = 1234H  
-AX × BX = 1234H × 1234H  
-        = 14B5A90H  
-
-Result → DX:AX = 014B5A90H  
-AX = 5A90H  
-DX = 014BH  
-
-Stored:  
-[1200H] = AX = 5A90H  
-[1202H] = DX = 014BH
+<img width="1499" height="1054" alt="image" src="https://github.com/user-attachments/assets/dbfb9c4a-48c6-4fa7-8516-54cef9972c8c" />
 
 
 ---
@@ -239,15 +215,11 @@ END
 |      1200               |        01 00 00 00       |
 
 #### Manual Calculations
+<img width="1466" height="863" alt="image" src="https://github.com/user-attachments/assets/542cdbb0-47ee-4412-a645-af83bc0e760e" />
 
-1234 / 1234  (Q-1 R-0)
-
----
 ## OUTPUT FROM MASM SOFTWARE
 
 <img width="633" height="434" alt="Screenshot 2025-08-29 085428" src="https://github.com/user-attachments/assets/5c88c225-aada-4d51-9281-22829a89f444" />
-
-
 
 
 ## RESULT
