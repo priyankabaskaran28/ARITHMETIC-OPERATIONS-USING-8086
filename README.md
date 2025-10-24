@@ -28,7 +28,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
 #### Program
@@ -62,11 +62,11 @@ END
 
 
 #### Manual Calculations
-<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5ddc804a-83a0-4c49-b03a-4ca50bcf64ef" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5ddc804a-83a0-4c49-b03a-4ca50bcf64ef" />
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="600" height="300" alt="Screenshot 2025-09-21 230237" src="https://github.com/user-attachments/assets/6b8648d2-41fe-44ac-a4db-3be7334dfceb" />
+<img width="300" height="300" alt="Screenshot 2025-09-21 230237" src="https://github.com/user-attachments/assets/6b8648d2-41fe-44ac-a4db-3be7334dfceb" />
 
 
 ## 2. SUBTRACTION
@@ -81,7 +81,7 @@ END
 
 ## FLOWCHART
 
-<img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
+<img width="578" height="300" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
 #### Program
@@ -113,7 +113,7 @@ END
 
 
 #### Manual Calculations
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8996fb8e-38e5-4b62-a926-bff171b66dc4" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8996fb8e-38e5-4b62-a926-bff171b66dc4" />
 
 
 
@@ -132,7 +132,7 @@ END
 
 ##FLOWCHART
 
-<img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
 
 
@@ -173,7 +173,7 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="635" height="434" alt="Screenshot 2025-08-29 084830" src="https://github.com/user-attachments/assets/315c0b8e-c83f-48ea-9d66-8342a9618450" />
+<img width="635" height="300" alt="Screenshot 2025-08-29 084830" src="https://github.com/user-attachments/assets/315c0b8e-c83f-48ea-9d66-8342a9618450" />
 
 
 ## 4. DIVISION
@@ -185,7 +185,7 @@ END
 3. Store result.
 
    ## FLOWCHART
-<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
 
 #### Program
@@ -220,7 +220,7 @@ END
 
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="633" height="434" alt="Screenshot 2025-08-29 085428" src="https://github.com/user-attachments/assets/5c88c225-aada-4d51-9281-22829a89f444" />
+<img width="300" height="300" alt="Screenshot 2025-08-29 085428" src="https://github.com/user-attachments/assets/5c88c225-aada-4d51-9281-22829a89f444" />
 
 
 ## RESULT
