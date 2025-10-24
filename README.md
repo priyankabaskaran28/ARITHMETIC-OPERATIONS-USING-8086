@@ -166,7 +166,9 @@ END
 |   1220                  |      BE 72 FF 77         |
 
 #### Manual Calculations
-<img width="1499" height="1054" alt="image" src="https://github.com/user-attachments/assets/dbfb9c4a-48c6-4fa7-8516-54cef9972c8c" />
+![WhatsApp Image 2025-10-24 at 8 50 47 AM](https://github.com/user-attachments/assets/5e5a1b45-8f79-4ffa-a8ba-6dbcc1903144)
+
+
 
 
 ---
@@ -215,7 +217,8 @@ END
 |      1200               |        01 00 00 00       |
 
 #### Manual Calculations
-<img width="1466" height="863" alt="image" src="https://github.com/user-attachments/assets/542cdbb0-47ee-4412-a645-af83bc0e760e" />
+![WhatsApp Image 2025-10-24 at 8 50 45 AM](https://github.com/user-attachments/assets/a413585d-f5a9-4852-830b-4dafcf8c1943)
+
 
 ## OUTPUT FROM MASM SOFTWARE
 
