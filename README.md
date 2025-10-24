@@ -28,7 +28,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
 #### Program
@@ -62,11 +62,11 @@ END
 
 
 #### Manual Calculations
-<img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ddc804a-83a0-4c49-b03a-4ca50bcf64ef" />
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5ddc804a-83a0-4c49-b03a-4ca50bcf64ef" />
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="633" height="299" alt="Screenshot 2025-09-21 230237" src="https://github.com/user-attachments/assets/6b8648d2-41fe-44ac-a4db-3be7334dfceb" />
+<img width="600" height="300" alt="Screenshot 2025-09-21 230237" src="https://github.com/user-attachments/assets/6b8648d2-41fe-44ac-a4db-3be7334dfceb" />
 
 
 ## 2. SUBTRACTION
